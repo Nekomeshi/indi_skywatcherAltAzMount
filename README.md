@@ -10,7 +10,7 @@ Indi:1.9.6
 
 ファイルをダウンロードしたら、ダウンロードしたフォルダで下記のコマンドを実行し、indi driverを入れ替えてください。
 
-$ chmod a+x indi_skywatcherAltAzMount 
+$ chmod a+x indi_skywatcherAltAzMount
 $ sudo mv /usr/bin/indi_skywatcherAltAzMount indi_skywatcherAltAzMount.org
 $ sudo cp indi_skywatcherAltAzMount /usr/bin
 
